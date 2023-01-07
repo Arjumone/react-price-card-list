@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation styles */
+.nav-tittle{
+    font-weight: 700;
+    font-size: 65px;  
+}
+nav h1,h2{
+    margin: 50px 150px;
+    margin-bottom: 30px;
+    
+}
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background: #fd6e0a;
+    border: none;
+    height: 30px;
+    width: 100px;
+    text-align: right;
+}
+
+.text-primary{
+    color: rgb(244, 176, 3);
+}
+.banner h1,h2,p{
+    text-align: right;
+    
+    
+}
+.banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url('../images/banner/banner1.png');
+    background-position: center;background-size: cover;
+
+}
+main{
+    max-width: 1400;
+    
+}
+.about{
+margin-top: 300px;
+}
+.section-tittle{
+text-align: center;
+margin-bottom: 25px;
+}
+.personal-tittle{
+margin-bottom: 115px;
+}
+.my-plan{
+    margin-top: 43;
+}
+.skill-container{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+}
+.skill-tittle{
+    text-align: center;
+    height: 200px; font-weight: 200;
+}

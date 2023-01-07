@@ -1,0 +1,16 @@
+h3{
+    color: brown;
+}
+p{
+    color: darkgreen;
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page title{
+    font-size: 500px;
+}
+.header{
+    height: 200px;
+    background-image: url(flower.jpg);
+}
