@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 30,
+      "features": [
+        "Access to gym facilities",
+        "Personal trainer not included"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 50,
+      "features": [
+        "2 personal training sessions per month",
+        "10% off on all supplements",
+        "Access to gym facilities"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 80,
+      "features": [
+        "20% off on all supplements",
+        "4 personal training sessions per month",
+        "Access to gym facilities",
+        "Free access to group fitness classes"
+      ]
+    }
+  ]
+  
