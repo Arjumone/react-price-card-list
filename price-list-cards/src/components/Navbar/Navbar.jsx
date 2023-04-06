@@ -14,7 +14,7 @@ const [open,setOpen] = useState(false);
       ];
       
     return (
-        <nav className='bd-purple-400'>
+        <nav className='bd-purple-400 px-4'>
           <div className='md:hidden' onClick={() => setOpen(!open)}>
             <span>
                 {open === true?

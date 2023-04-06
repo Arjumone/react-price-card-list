@@ -9,12 +9,13 @@ useEffect(() =>{
     .then(data => setPrices(data));
 },[])
     return (
-        <div>
+        <div className='mx-12'>
             <h3 className='text-6xl bg-purple-300 font-bold text-center text-purple-950  p-5'>Awosome affordable price</h3>
-           <div className='grid grid-cols-3 gap-3'>
+           <div className='grid md:grid-cols-3 gap-3'>
            {
                 prices.map(price => <PriceCard key={price.id} price={price}></PriceCard>)
             }
+            
            </div>
         </div>
     );
