@@ -1,0 +1,63 @@
+#webs{
+    background-color: darkcyan;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+   height: 50px;
+   width: 50%;
+  align-items: center;
+  font-size: larger;
+}
+p{
+    font-style: italic;
+    font-size: larger;
+}
+ol{
+    background-color: bisque;
+    padding: 20px;
+}
+*{
+    margin: 30px;
+}
+.img{
+    background-image: url('IMG_20221209_114341.jpg');
+    font-size: larger;
+}
+.para{
+    color: cadetblue;
+    border: 10px;
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 20px;
+    width: 50%;
+    margin: none;
+}
+.image{
+    height: 350px;
+    width: 35%;
+
+    position: relative;
+}
+.sp{ 
+    border: 20px;
+display: inline;
+}
+.paras{
+    font-size: larger;
+    background-color: bisque;
+    border: 30px;
+    border-radius: 30px;
+  padding: 10px;
+}
+.images{
+    height: 400px;
+    width: 200px;
+} 
+.btn{
+background-color: rgb(79, 79, 159);
+padding: 4px;
+color: azure;
+
+}
